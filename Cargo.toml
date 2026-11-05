@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_art"
+version = "0.1.0"
+edition = "2021"
+description = "Digital art and painting integration for SigmaOS — brush engine, layer management, and raster/vector canvas"
+
+[lib]
+name = "sigmaos_craft_art"
+path = "src/lib.rs"

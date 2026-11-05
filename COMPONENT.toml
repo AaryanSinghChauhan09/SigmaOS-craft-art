@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-craft-art"
+tier = 5
+stability = "scaffold"
+language = "rust"
+description = "Digital art and painting integration for SigmaOS — brush engine, layer management, and raster/vector canvas"
+upstream = ["https://github.com/GNOME/gimp"]
+
+[contract]
+provides = ["digital-painting", "brush-engine", "layers"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"
