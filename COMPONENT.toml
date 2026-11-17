@@ -3,7 +3,7 @@ name = "SigmaOS-craft-art"
 tier = 5
 stability = "scaffold"
 language = "rust"
-description = "Digital art and painting integration for SigmaOS — brush engine, layer management, and raster/vector canvas"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = ["https://github.com/GNOME/gimp"]
 
 [contract]
