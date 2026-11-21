@@ -4,6 +4,9 @@
 //! canvas with resolution, color space, layer ordering; validation; export options.
 //! Replaces the 25-line stub.
 
+/// Digital art module.
+pub mod sigmaart;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
